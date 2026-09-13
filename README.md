@@ -78,9 +78,22 @@ The weekday vs. weekend analysis goes beyond comparing absolute revenue volumes.
 I grouped campaigns by macro-category and geographic target (Tier 1 vs. Tier 2), comparing Customer Acquisition Cost (CAC) against ROMI to pinpoint the most scalable and efficient channels.
 
 ## CONCLUSION
+The analysis shows that marketing generated an overall positive return during the analyzed period, with revenue consistently exceeding marketing spend. However, campaign-level performance is heterogeneous, with some campaigns generating positive ROMI and others showing negative returns.
+
+A key methodological finding concerns the calculation of ROMI. Averaging daily ROMI values can distort the actual performance because each day receives the same weight regardless of the amount invested. For this reason, ROMI was correctly calculated after aggregating total revenue and total marketing spend.
+
+Looking at the conversion funnel, the visitor-to-lead conversion rate remains relatively low, ranging approximately between 1.3% and 2.8%. The lead-to-sale conversion rate is considerably higher, ranging approximately between 9% and 15%. This suggests that the Click-to-Lead stage represents a more significant opportunity for optimization than the Lead-to-Sale stage.
+
+The AOV shows some variability over time, generally fluctuating around ₹5,000–₹6,000, with some more pronounced peaks and drops. This indicates that the average value generated per order is not constant, although this variation alone is not enough to draw conclusions about customer heterogeneity.
+
+The comparison between marketing spend and revenue shows a generally positive relationship: periods with higher marketing investment are often associated with higher revenue. However, this represents an association rather than proof of direct causality.
+
+The weekday vs. weekend analysis also highlights an efficiency difference. Weekends show a higher ROMI, above approximately 0.4, compared with around 0.3–0.4 during weekdays. At the same time, CAC is generally lower during weekends, ranging approximately between ₹3,000 and ₹4,000, compared with around ₹4,000 during weekdays. This suggests that weekends are more efficient for customer acquisition, although absolute revenue and scalability should also be considered before reallocating budget.
+
+Finally, aggregating campaigns by marketing channel reveals significant differences in performance. Influencer and Search show clearly positive ROMI, while Social shows negative ROMI. This confirms that overall marketing performance hides important differences between channels.
+
+These findings support the next stage of the analysis: moving from individual campaigns and channels to geographic segmentation and evaluating the interaction between **channel, geography, ROMI, CAC, and volume** to identify the most efficient and scalable marketing opportunities.
 
 The weekday vs. weekend analysis highlights a clear efficiency difference. Weekends show a higher ROMI, above 0.4, compared to the 0.3–0.4 range during weekdays. Simultaneously, the Customer Acquisition Cost (CAC) drops to ₹3,000–₹4,000 on weekends, compared to a baseline of ₹4,000 on weekdays, all while the Average Order Value (AOV) remains stable between ₹5,000 and ₹6,000. This confirms weekends as the most cost-effective acquisition window.
-
 Aggregating campaigns by marketing channel reveals stark contrasts in profitability. The Influencer channel dominates performance with a ROMI exceeding 1.5, whereas Search barely maintains a positive return and Social actively burns budget with a negative ROMI. This disparity dictates a strategic reallocation of budget toward influencer campaigns to maximize overall returns.
-
 Geographic segmentation exposes a critical inefficiency in targeting. Tier 1 cities generate a solid positive ROMI of approximately 0.35, while Tier 2 cities yield a heavily negative ROMI below -0.2. Consequently, scaling efforts should exclusively target Tier 1 locations, cutting expenditure in Tier 2 areas to prevent further budget drain.
