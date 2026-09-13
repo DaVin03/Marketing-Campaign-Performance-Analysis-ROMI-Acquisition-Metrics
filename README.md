@@ -77,7 +77,7 @@ The weekday vs. weekend analysis goes beyond comparing absolute revenue volumes.
 
 I grouped campaigns by macro-category and geographic target (Tier 1 vs. Tier 2), comparing Customer Acquisition Cost (CAC) against ROMI to pinpoint the most scalable and efficient channels.
 
-##CONCLUSION
+## CONCLUSION
 
 The weekday vs. weekend analysis highlights a clear efficiency difference. Weekends show a higher ROMI, above 0.4, compared to the 0.3–0.4 range during weekdays. Simultaneously, the Customer Acquisition Cost (CAC) drops to ₹3,000–₹4,000 on weekends, compared to a baseline of ₹4,000 on weekdays, all while the Average Order Value (AOV) remains stable between ₹5,000 and ₹6,000. This confirms weekends as the most cost-effective acquisition window.
 
