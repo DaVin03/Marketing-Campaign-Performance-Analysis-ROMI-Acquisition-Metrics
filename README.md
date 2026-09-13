@@ -76,3 +76,11 @@ The weekday vs. weekend analysis goes beyond comparing absolute revenue volumes.
 ### 5. Segment Evaluation (Geo & Channel)
 
 I grouped campaigns by macro-category and geographic target (Tier 1 vs. Tier 2), comparing Customer Acquisition Cost (CAC) against ROMI to pinpoint the most scalable and efficient channels.
+
+##CONCLUSION
+
+The weekday vs. weekend analysis highlights a clear efficiency difference. Weekends show a higher ROMI, above 0.4, compared to the 0.3–0.4 range during weekdays. Simultaneously, the Customer Acquisition Cost (CAC) drops to ₹3,000–₹4,000 on weekends, compared to a baseline of ₹4,000 on weekdays, all while the Average Order Value (AOV) remains stable between ₹5,000 and ₹6,000. This confirms weekends as the most cost-effective acquisition window.
+
+Aggregating campaigns by marketing channel reveals stark contrasts in profitability. The Influencer channel dominates performance with a ROMI exceeding 1.5, whereas Search barely maintains a positive return and Social actively burns budget with a negative ROMI. This disparity dictates a strategic reallocation of budget toward influencer campaigns to maximize overall returns.
+
+Geographic segmentation exposes a critical inefficiency in targeting. Tier 1 cities generate a solid positive ROMI of approximately 0.35, while Tier 2 cities yield a heavily negative ROMI below -0.2. Consequently, scaling efforts should exclusively target Tier 1 locations, cutting expenditure in Tier 2 areas to prevent further budget drain.
